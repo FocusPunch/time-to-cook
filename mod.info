@@ -1,0 +1,8 @@
+name=Time to Cook
+poster=ttc.png
+description=Displays the time it takes to cook food items.
+id=timeToCook
+
+modversion=1.0.0
+pzversion=41.65
+versionurl=https://github.com/FocusPunch/time-to-cook
