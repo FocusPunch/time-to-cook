@@ -1,0 +1,9 @@
+version=1
+id=2718642011
+title=Time to Cook
+description=Displays the time it takes to cook food items.
+description=
+description=For build 41
+description=Ever get tired of standing in front of the oven to make sure you're food doesn't burn? With this mod you can see what to set the oven timer to so you're free to walk around your base until dinners ready.
+tags=Build 41;Interface
+visibility=public
