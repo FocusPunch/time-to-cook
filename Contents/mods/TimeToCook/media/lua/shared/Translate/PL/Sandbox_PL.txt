@@ -1,0 +1,8 @@
+Sandbox_PL = {
+    Sandbox_Time_To_Cook = "Czas na gotowanie",
+    Sandbox_ttcRequireCookTrait = "Wymagaj cechy kucharza",
+    Sandbox_ttcRequireCookTrait_tooltip = "Pokazuj czas na gotowanie produktów spożywczych tylko wtedy, gdy gracz ma cechę Gotowanie",
+    Sandbox_ttcRequireCookingLevel = "Wymagaj poziomu gotowania",
+    Sandbox_ttcRequireCookingLevel_tooltip = "Pokaż czas gotowania na produktach spożywczych tylko wtedy, gdy gracz ma wymagany poziom gotowania",
+    Sandbox_ttcCookingLevelRequired = "Wymagany poziom gotowania"
+}

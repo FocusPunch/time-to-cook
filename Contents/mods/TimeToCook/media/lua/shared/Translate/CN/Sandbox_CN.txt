@@ -1,0 +1,8 @@
+Sandbox_CN = {
+    Sandbox_Time_To_Cook = "是时候做饭了",
+    Sandbox_ttcRequireCookTrait = "需要厨师特质",
+    Sandbox_ttcRequireCookTrait_tooltip = "仅当玩家具有 厨师 特质时才显示烹饪食物的时间",
+    Sandbox_ttcRequireCookingLevel = "需要烹饪水平",
+    Sandbox_ttcRequireCookingLevel_tooltip = "仅当玩家具有所需的烹饪水平时才显示烹饪食物的时间",
+    Sandbox_ttcCookingLevelRequired = "需要烹饪水平"
+}
