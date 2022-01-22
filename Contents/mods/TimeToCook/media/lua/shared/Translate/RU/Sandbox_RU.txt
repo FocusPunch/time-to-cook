@@ -1,8 +1,8 @@
 Sandbox_RU = {
-    Sandbox_Time_To_Cook = "Р’СЂРµРјСЏ РіРѕС‚РѕРІРёС‚СЊ",
-    Sandbox_ttcRequireCookTrait = "РўСЂРµР±СѓРµС‚СЃСЏ С‡РµСЂС‚Р° РїРѕРІР°СЂР°",
-    Sandbox_ttcRequireCookTrait_tooltip = "РџРѕРєР°Р·С‹РІР°С‚СЊ РІСЂРµРјСЏ РїСЂРёРіРѕС‚РѕРІР»РµРЅРёСЏ РїРёС‰Рё, С‚РѕР»СЊРєРѕ РµСЃР»Рё Сѓ РёРіСЂРѕРєР° РµСЃС‚СЊ С‡РµСЂС‚Р° В«РџРѕРІР°СЂВ»",
-    Sandbox_ttcRequireCookingLevel = "РўСЂРµР±РѕРІР°С‚СЊ СѓСЂРѕРІРµРЅСЊ РєСѓР»РёРЅР°СЂРёРё",
-    Sandbox_ttcRequireCookingLevel_tooltip = "РџРѕРєР°Р·С‹РІР°С‚СЊ РІСЂРµРјСЏ РїСЂРёРіРѕС‚РѕРІР»РµРЅРёСЏ РїРёС‰Рё С‚РѕР»СЊРєРѕ РІ С‚РѕРј СЃР»СѓС‡Р°Рµ, РµСЃР»Рё Сѓ РёРіСЂРѕРєР° РµСЃС‚СЊ РЅРµРѕР±С…РѕРґРёРјС‹Р№ СѓСЂРѕРІРµРЅСЊ РєСѓР»РёРЅР°СЂРёРё",
-    Sandbox_ttcCookingLevelRequired = "РўСЂРµР±СѓРµРјС‹Р№ СѓСЂРѕРІРµРЅСЊ РєСѓР»РёРЅР°СЂРёРё"
+    Sandbox_Time_To_Cook = "Время готовить",
+    Sandbox_ttcRequireCookTrait = "Требуется черта повара",
+    Sandbox_ttcRequireCookTrait_tooltip = "Показывать время приготовления пищи, только если у игрока есть черта «Повар»",
+    Sandbox_ttcRequireCookingLevel = "Требовать уровень кулинарии",
+    Sandbox_ttcRequireCookingLevel_tooltip = "Показывать время приготовления пищи только в том случае, если у игрока есть необходимый уровень кулинарии",
+    Sandbox_ttcCookingLevelRequired = "Требуемый уровень кулинарии"
 }
