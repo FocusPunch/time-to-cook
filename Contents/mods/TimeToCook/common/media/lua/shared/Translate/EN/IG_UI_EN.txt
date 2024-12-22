@@ -1,0 +1,3 @@
+IGUI_EN = {
+    IGUI_invpanel_Minutes_to_Cook = "Minutes to Cook",
+}

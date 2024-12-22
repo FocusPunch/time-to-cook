@@ -1,0 +1,8 @@
+Sandbox_ES = {
+    Sandbox_Time_To_Cook = "Hora de Cocinar",
+    Sandbox_ttcRequireCookTrait = "Requerir rasgo de cocinero",
+    Sandbox_ttcRequireCookTrait_tooltip = "Solo muestra el tiempo de cocción de los alimentos si el jugador tiene el rasgo Cocinar",
+    Sandbox_ttcRequireCookingLevel = "Requerir nivel de cocción",
+    Sandbox_ttcRequireCookingLevel_tooltip = "Solo muestra el tiempo de cocción de los alimentos si el jugador tiene el nivel de cocción requerido",
+    Sandbox_ttcCookingLevelRequired = "Nivel de cocción requerido"
+}

@@ -1,0 +1,8 @@
+Sandbox_EN = {
+    Sandbox_Time_To_Cook = "Time To Cook",
+    Sandbox_ttcRequireCookTrait = "Require Cook Trait",
+    Sandbox_ttcRequireCookTrait_tooltip = "Only show time to cook on food items if player has the Cook trait",
+    Sandbox_ttcRequireCookingLevel = "Require Cooking Level",
+    Sandbox_ttcRequireCookingLevel_tooltip = "Only show time to cook on food items if player has the required cooking level",
+    Sandbox_ttcCookingLevelRequired = "Cooking Level Required"
+}

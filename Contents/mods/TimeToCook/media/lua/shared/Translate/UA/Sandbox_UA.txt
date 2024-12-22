@@ -1,0 +1,8 @@
+Sandbox_UA = {
+	Sandbox_Time_To_Cook = "×àñ ïðèãîòóâàííÿ",
+	Sandbox_ttcRequireCookTrait = "Îáîâ’ÿçêîâà ðèñà Êóë³íàð³¿",
+	Sandbox_ttcRequireCookTrait_tooltip = "Îáîâ’ÿçêîâà ðèñà Êóë³íàð³¿, ÿêà ïîòð³áíà ùîá áà÷èòè ×àñ äî ïðèãîòóâàííÿ",
+	Sandbox_ttcRequireCookingLevel = "Îáîâ’ÿçêîâèé ð³âåíü Êóë³íàð³¿",
+	Sandbox_ttcRequireCookingLevel_tooltip = "Îáîâ’ÿçêîâèé ð³âåíü Êóë³íàð³¿, ùîá áà÷èòè ×àñ ïðèãîòóâàííÿ",
+	Sandbox_ttcCookingLevelRequired = "Íåîáõ³äíèé ð³âåíü Êóë³íàð³¿",
+}

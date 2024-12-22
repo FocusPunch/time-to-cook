@@ -1,0 +1,19 @@
+VERSION = 1,
+
+option TimeToCook.ttcRequireCookTrait
+{
+	type = boolean, default = false,
+	page = Time_To_Cook, translation = ttcRequireCookTrait
+}
+
+option TimeToCook.ttcRequireCookingLevel
+{
+	type = boolean, default = false,
+	page = Time_To_Cook, translation = ttcRequireCookingLevel
+}
+
+option TimeToCook.ttcCookingLevelRequired
+{
+	type = integer, min = 0, max = 10, default = 3,
+	page = Time_To_Cook, translation = ttcCookingLevelRequired
+}

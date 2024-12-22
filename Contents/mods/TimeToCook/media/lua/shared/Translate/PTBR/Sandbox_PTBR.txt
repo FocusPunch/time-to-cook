@@ -1,0 +1,8 @@
+Sandbox_PTBR = {
+   Sandbox_Time_To_Cook = "Time To Cook",
+   Sandbox_ttcRequireCookTrait = "Exigir característica Cozinheiro",
+   Sandbox_ttcRequireCookTrait_tooltip = "Mostra o tempo para cozinhar apenas se o jogador possuir a característica Cozinheiro",
+   Sandbox_ttcRequireCookingLevel = "Exigir nível de Culinária",
+   Sandbox_ttcRequireCookingLevel_tooltip = "Mostra o tempo para cozinhar apenas se o jogador possuir o nível de Culinária necessário",
+   Sandbox_ttcCookingLevelRequired = "Nível de Culinária exigido"
+}
